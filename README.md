@@ -25,4 +25,4 @@ With it I could know some interesting features in Android ecosystem and integrat
 
 <p><strong>Note:</strong> You have to populate the project with your own data.</p>
 
-<p><strong>Web:</strong> <a href="http://bongga.co">http://bongga.co</a></p>
+<p><strong>Web:</strong> <a href="http://bongga.dev">http://bongga.dev</a></p>
